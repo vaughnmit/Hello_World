@@ -12,7 +12,7 @@ Sample repository, I have no actual projects to list
   [ADDITIONAL INFORMATION](#Additional-Information)
   
 ##**Project Title**  
-"Hello_World" is a template for class Pro Prep ~~ruh roh~~  
+"Hello_World" is a template for class Pro Prep, There by no means is a 50tb zip bomb linked anywhere in this repository  
 
 ##**Description**  
 Expect to find **nothing** useful here  
