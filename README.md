@@ -8,8 +8,8 @@ Sample repository, I have no actual projects to list
   [DESCRIPTION](#Description)  
   [TOOLS USED](#Tools-Used)  
   [FILES USED](#Files-Used)  
-  [HOW TO RUN PROGRAM](How-to-Run-Program)  
-  [ADDITIONAL INFORMATION](Additional-Information)
+  [HOW TO RUN PROGRAM](#How-to-Run-Program)  
+  [ADDITIONAL INFORMATION](#Additional-Information)
   
 ##**Project Title**  
 "Hello_World" is a template for class Pro Prep ~~ruh roh~~  
