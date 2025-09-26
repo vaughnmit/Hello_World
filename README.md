@@ -1,4 +1,4 @@
-# Hello_world2
+# Hello_World
 First repository
 Sample repository, I have no actual projects to list  
 
@@ -12,7 +12,7 @@ Sample repository, I have no actual projects to list
   [ADDITIONAL INFORMATION](Additional-Information)
   
 ##Project Title  
-"Hello_World" is a template I'm making for a class --ruhroh--   
+"Hello_World" is a template I'm making for a class ~~ruh roh~~  
 
 ##Description  
 Expect to find **nothing** useful here  
