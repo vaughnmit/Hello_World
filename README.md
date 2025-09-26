@@ -11,7 +11,7 @@ Sample repository, I have no actual projects to list
   [HOW TO RUN PROGRAM](How-to-Run-Program)  
   [ADDITIONAL INFORMATION](Additional-Information)
   
-##**Project Title**  
+###**Project Title**  
 "Hello_World" is a template for class Pro Prep ~~ruh roh~~  
 
 ##**Description**  
