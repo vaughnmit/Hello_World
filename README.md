@@ -12,13 +12,13 @@ Sample repository, I have no actual projects to list
   [ADDITIONAL INFORMATION](Additional-Information)
   
 ##**Project Title**  
-"Hello_World" is a template I'm making for a class ~~ruh roh~~  
+"Hello_World" is a template for class Pro Prep ~~ruh roh~~  
 
 ##**Description**  
 Expect to find **nothing** useful here  
 
 ##**Tools Used**  
-
+Allen Wrenches
 
 
 ##**Files Used**  
