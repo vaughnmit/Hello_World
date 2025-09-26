@@ -33,6 +33,6 @@ Strike Through: ~~test dialogue~~
 Program? What ***Program?***
 
 
-##**Additional Information**  
+##**Additional Information**   
 Why the Hell am I only allowed 1mb for a profile picture
 
