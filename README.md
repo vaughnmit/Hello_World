@@ -19,10 +19,10 @@ Expect to find **nothing** useful here
 
 ##**Tools Used**  
 text functions:  
-*test dialogue*  
-**test dialogue**  
-***test dialogue***  
-~~test dialogue~~  
+Italics: *test dialogue*  
+Bold: **test dialogue**  
+Italics+Bold: ***test dialogue***  
+Strike Through: ~~test dialogue~~  
 
 
 ##**Files Used**  
