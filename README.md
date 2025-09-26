@@ -18,11 +18,11 @@ Sample repository, I have no actual projects to list
 Expect to find **nothing** useful here  
 
 ##**Tools Used**  
-text functions  
-*test*  
-**test**  
-***test***  
-~~test~~  
+text functions:  
+*test dialogue*  
+**test dialogue**  
+***test dialogue***  
+~~test dialogue~~  
 
 
 ##**Files Used**  
