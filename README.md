@@ -11,25 +11,25 @@ Sample repository, I have no actual projects to list
   [HOW TO RUN PROGRAM](How-to-Run-Program)  
   [ADDITIONAL INFORMATION](Additional-Information)
   
-##Project Title  
+##**Project Title**  
 "Hello_World" is a template I'm making for a class ~~ruh roh~~  
 
-##Description  
+##**Description**  
 Expect to find **nothing** useful here  
 
-##Tools Used  
+##**Tools Used**  
 
 
 
-##Files Used  
+##**Files Used**  
 [link for ***very*** important files](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-##How to Run Program  
-Program? What *Program?*
+##**How to Run Program**  
+Program? What ***Program?***
 
 
-##Additional Information  
+##**Additional Information**  
 
 
 
