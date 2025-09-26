@@ -7,7 +7,7 @@ Sample repository, I have no actual projects to list
   [PROJECT TITLE](#Project-Title)  
   [DESCRIPTION](#Description)  
   [TOOLS USED](#Tools-Used)  
-  [FILES USED](#Files-Used)
+  [FILES USED](#Files-Used)  
   [HOW TO RUN PROGRAM](How-to-Run-Program)  
   [ADDITIONAL INFORMATION](Additional-Information)
   
