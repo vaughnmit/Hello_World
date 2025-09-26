@@ -18,7 +18,11 @@ Sample repository, I have no actual projects to list
 Expect to find **nothing** useful here  
 
 ##**Tools Used**  
-Allen Wrenches
+text functions  
+*test*  
+**test**  
+***test***  
+~~test~~  
 
 
 ##**Files Used**  
